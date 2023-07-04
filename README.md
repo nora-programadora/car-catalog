@@ -1,6 +1,6 @@
 # car-catalog instructions
 
-After clone the repositori on your pc:
+After clone the repository on your pc:
 
 ## Positioned at Server folder you need:
 
